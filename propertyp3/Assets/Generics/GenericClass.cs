@@ -9,7 +9,7 @@ public class GenericClass <T>
 
         public void UpdateItem(T newItem)
         {
-          = ne  item wItem;
+          item = newItem;
         }
     
     // Start is called before the first frame update
